@@ -1,7 +1,7 @@
-mysh - A very tiny C shell
-==========================
+mysh - A very tiny shell
+========================
 
-This is a tiny C shell built for NCTU Advanced Unix Programming course.
+This is a tiny shell built for NCTU Advanced Unix Programming course.
 
 # What are supported
 
